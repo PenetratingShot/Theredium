@@ -1,6 +1,7 @@
 {
   "name": "theredium",
   "version": "0.0.0",
+  "main": "server.js",
   "description": "A socket.io chat application",
   "dependencies": {
     "express": "^4.16.3",
